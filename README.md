@@ -47,10 +47,12 @@ NumPy | Pandas | Matplotlib | Scikit-Learn
 
 Git | GitHub | VS Code | Postman
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- 📧 Email: [yourname@gmail.com](mailto:jaiswalshreya246@gmail.com)
-- 💼 LinkedIn: [Shreya Jaiswal](https://linkedin.com/in/shreya-jaiswal-291591288/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shreya-jaiswal-291591288/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:jaiswalshreya246@gmail.com)
+
 
 
 
