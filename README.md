@@ -49,9 +49,9 @@ Git | GitHub | VS Code | Postman
 
 ## 📫 Connect With Me
 
-📧 Email: [shreyajaiswal@gmail.com](mailto:jaiswalshreya246@gmail.com)
+[Email](mailto:jaiswalshreya246@gmail.com)
 
-💼 LinkedIn: [LinkedIn](https://linkedin.com/in/shreya-jaiswal-291591288/)
+[LinkedIn](https://linkedin.com/in/shreya-jaiswal-291591288/)
 
 
 
