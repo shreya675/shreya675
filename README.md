@@ -1,8 +1,6 @@
 # Hi 👋 I'm Shreya Jaiswal
 
-### AI/ML Enthusiast | Full Stack Developer | ECE Undergraduate @ IIT Ropar
-
-🚀 Building impactful software and machine learning solutions.
+### AI/ML Enthusiast | Full Stack Developer | EE Undergraduate @ IIT Ropar
 
 💡 Interested in:
 - Artificial Intelligence & Machine Learning
